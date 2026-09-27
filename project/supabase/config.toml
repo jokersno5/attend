@@ -1,2 +1,0 @@
-[functions.admin-update-user]
-verify_jwt = true
